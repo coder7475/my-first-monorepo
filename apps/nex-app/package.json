@@ -9,6 +9,7 @@
   "dependencies": {
     "@preconstruct/next": "^4.0.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@monorepo-starter/button": "1.0.0"
   }
 }
